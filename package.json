@@ -1,0 +1,26 @@
+{
+  "name": "portalExpress",
+  "version": "1.0.0",
+  "description": "Application made with Node.js and Express Framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toniferr/portalExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toniferr/portalExpress/issues"
+  },
+  "homepage": "https://github.com/toniferr/portalExpress#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
