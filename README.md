@@ -1,2 +1,2 @@
 # portalExpress
-Node Application made Express Framework and Pug engine template
+Node Application made with Express Framework and Pug engine template
