@@ -34,6 +34,10 @@ app.get("/", (req, res) => {
   res.render("index", { title: "Home" });
 })
 
+app.get("/go", (req, res) => {
+  res.render("go", { title: "Profile", userProfile: { nickname: "Toni" } });
+});
+
 
 /**
  * Server Activation
